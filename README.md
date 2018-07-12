@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+欢迎来到我的博客,这是我记录知识和见闻的地方.
 
 You can use the [editor on GitHub](https://github.com/ByteHu/ByteHu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files
 
