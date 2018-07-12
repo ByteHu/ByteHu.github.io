@@ -30,8 +30,8 @@ Content in the first column | Content in the second column
 
 ~~划掉~~
 
-tophat:
-mans_shoe:
+:tophat:
+:mans_shoe:
 ```
 
 ```markdown
