@@ -10,6 +10,31 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+使用markdown写博客
+hello world
+# 标题
+- 黑点列表
+1.数字列表
+**黑体**
+_斜体_
+`这里面放代码`
+[链接](链接的地址)
+![图片](图片的地址)
+- [x] 嘿嘿
+- [x] 哈哈
+- [ ] 呵呵
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+~~划掉~~
+
+tophat:
+mans_shoe:
+```
+
+```markdown
 Syntax highlighted code block
 
 # Header 1
