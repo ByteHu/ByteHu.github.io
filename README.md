@@ -12,26 +12,26 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 使用markdown写博客
 hello world
-# 标题
-- 黑点列表
-1.数字列表
+ # 标题
+ - 黑点列表
+ 1.数字列表
 **黑体**
 _斜体_
 `这里面放代码`
 [链接](链接的地址)
 ![图片](图片的地址)
-- [x] 嘿嘿
-- [x] 哈哈
-- [ ] 呵呵
+ - [x] 嘿嘿
+ - [x] 哈哈
+ - [ ] 呵呵
 
     | solution type | description |
     | :-------------- | :------------ |
     | Driven Modal | For calculating the mode-based S-parameters |
 
-~~划掉~~
+ ~~划掉~~
 
-:tophat:
-:mans_shoe:
+ :tophat:
+ :mans_shoe:
 ```
 
 ```markdown
