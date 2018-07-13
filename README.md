@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 ## 欢迎来到我的博客,这是我记录知识和见闻的地方.
 
-You can use the [editor on GitHub](https://github.com/ByteHu/ByteHu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files [跳转到item1](https://bytehu.github.io/item1.md/)
-[跳转到html1](https://bytehu.github.io/index.html/)
-[跳转到readme - 副本](https://bytehu.github.io/readme-副本.md/)
+You can use the [editor on GitHub](https://github.com/ByteHu/ByteHu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files [跳转到item1](https://bytehu.github.io/test/item1.md/)
+[跳转到html1](https://bytehu.github.io/test/index.html/)
+[跳转到readme - 副本](https://bytehu.github.io/test/readme-副本.md/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
