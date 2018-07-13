@@ -3,7 +3,7 @@
 
 You can use the [editor on GitHub](https://github.com/ByteHu/ByteHu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files [跳转到百度界面](https://www.baidu.com)
 [跳转到html1](https://bytehu.github.io/index.html/)
-[跳转到readme - 副本](https://bytehu.github.io/readme - 副本.md/)
+[跳转到readme - 副本](https://bytehu.github.io/readme-副本.md/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
